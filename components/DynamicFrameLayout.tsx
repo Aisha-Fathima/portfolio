@@ -142,7 +142,7 @@ const initialFrames: Frame[] = [
   },
   {
     id: 7,
-    video: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop", // Education
+    video: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&h=600&fit=crop", // Education
     defaultPos: { x: 0, y: 8, w: 4, h: 4 },
     corner: "https://static.cdn-luma.com/files/b80b5aa00ccc33bd/7_corner.png",
     edgeHorizontal: "https://static.cdn-luma.com/files/b80b5aa00ccc33bd/7_hori.png",

@@ -79,7 +79,7 @@ export default function Home() {
       impact: "Boosted user engagement through personalized health tips",
       github: "https://github.com/Aisha-Fathima/project-empowher-women-health-assisstant",
       demo: "https://project-empowher-women-health-assisstant.vercel.app/",
-      image: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=500&h=300&fit=crop",
+      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-i0ITpyU4UuJMlnxe7B34Abpg9HMgI2.png",
     },
     {
       id: 2,
@@ -92,7 +92,7 @@ export default function Home() {
       impact: "Enhanced productivity by cutting reading time by 60%",
       github: "https://github.com/Aisha-Fathima/AI-Summarizer",
       demo: "https://ai-summarizer-alpha-rose.vercel.app/",
-      image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=500&h=300&fit=crop",
+      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-ohVpltZiaQiUrP5ske8y7eFQi9k477.png",
     },
     {
       id: 3,

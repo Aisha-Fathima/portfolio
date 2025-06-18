@@ -256,7 +256,7 @@ export default function Home() {
                   <Mail size={20} />
                 </Link>
                 <Link
-                  href="https://drive.google.com/file/d/1tzAZYQqiwQf5cYhjNmAQ4X5suLaf-6UQ/view"
+                  href="https://drive.google.com/file/d/1v2KfRs171AJH2tOsClhbSmWgyhLQAheS/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 text-white/60 hover:text-white/90 hover:bg-white/5 rounded-lg transition-all duration-200"
@@ -282,6 +282,19 @@ export default function Home() {
                   <Link href="https://github.com/Aisha-Fathima" target="_blank" rel="noopener noreferrer">
                     <Code className="mr-2 h-4 w-4" />
                     Code
+                  </Link>
+                </Button>
+                <Button
+                  asChild
+                  className="w-full bg-blue-600 hover:bg-blue-700 text-white border-0 rounded-xl py-6 font-medium"
+                >
+                  <Link
+                    href="https://drive.google.com/file/d/1v2KfRs171AJH2tOsClhbSmWgyhLQAheS/view?usp=sharing"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <FileText className="mr-2 h-4 w-4" />
+                    Resume
                   </Link>
                 </Button>
               </motion.div>

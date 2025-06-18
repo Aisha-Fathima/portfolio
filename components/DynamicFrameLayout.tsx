@@ -28,7 +28,7 @@ interface Frame {
 const initialFrames: Frame[] = [
   {
     id: 1,
-    video: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=600&fit=crop", // Health/Medical for EmpowHER
+    video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-i0ITpyU4UuJMlnxe7B34Abpg9HMgI2.png", // EmpowHER project screenshot
     defaultPos: { x: 0, y: 0, w: 4, h: 4 },
     corner: "https://static.cdn-luma.com/files/bcf576df9c38b05f/1_corner_update.png",
     edgeHorizontal: "https://static.cdn-luma.com/files/bcf576df9c38b05f/1_vert_update.png",
@@ -48,7 +48,7 @@ const initialFrames: Frame[] = [
   },
   {
     id: 2,
-    video: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop", // AI/Tech for Breifly
+    video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-ohVpltZiaQiUrP5ske8y7eFQi9k477.png", // Briefly project screenshot
     defaultPos: { x: 4, y: 0, w: 4, h: 4 },
     corner: "https://static.cdn-luma.com/files/bcf576df9c38b05f/2_corner_update.png",
     edgeHorizontal: "https://static.cdn-luma.com/files/bcf576df9c38b05f/2_vert_update.png",
@@ -106,7 +106,7 @@ const initialFrames: Frame[] = [
   },
   {
     id: 5,
-    video: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=600&fit=crop", // Innovation/Competition
+    video: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop", // Innovation/Competition
     defaultPos: { x: 4, y: 4, w: 4, h: 4 },
     corner: "https://static.cdn-luma.com/files/9e67e05f37e52522/5_corner_update.png",
     edgeHorizontal: "https://static.cdn-luma.com/files/9e67e05f37e52522/5_hori_update.png",
@@ -142,7 +142,7 @@ const initialFrames: Frame[] = [
   },
   {
     id: 7,
-    video: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&h=600&fit=crop", // Education
+    video: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop", // Education
     defaultPos: { x: 0, y: 8, w: 4, h: 4 },
     corner: "https://static.cdn-luma.com/files/b80b5aa00ccc33bd/7_corner.png",
     edgeHorizontal: "https://static.cdn-luma.com/files/b80b5aa00ccc33bd/7_hori.png",
@@ -178,7 +178,7 @@ const initialFrames: Frame[] = [
   },
   {
     id: 9,
-    video: "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&h=600&fit=crop", // Community
+    video: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=600&fit=crop", // Community
     defaultPos: { x: 8, y: 8, w: 4, h: 4 },
     corner: "https://static.cdn-luma.com/files/981e483f71aa764b/9_corner.png",
     edgeHorizontal: "https://static.cdn-luma.com/files/981e483f71aa764b/9_hori.png",

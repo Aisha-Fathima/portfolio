@@ -289,7 +289,7 @@ export default function Home() {
                   className="w-full bg-blue-600 hover:bg-blue-700 text-white border-0 rounded-xl py-6 font-medium"
                 >
                   <Link
-                    href="https://drive.google.com/file/d/1fUaQU0GaVflLEexsxIqumJI6tVpOA79Z/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1uljXyiq_GUBpxw1RX74rCBaaqJWtE82w/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
